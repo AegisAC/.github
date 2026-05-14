@@ -9,6 +9,5 @@ Node is used by developers who need a serious editing environment on mobile devi
 Our main `node-ide` repository hosts the source code for the editor, the scripts to build for Android, iOS, and desktop, and the issue tracker for bug reports and feature requests. It is updated with each upstream release and welcomes community contributions.
 
 We also maintain other repositories that are key to the project:
-- **[node-docs](https://github.com/node-ide/node-docs)** repository hosts the full user and developer documentation, available at `https://node-ide.dev/`. Pull requests for guides, tutorials, and troubleshooting are always welcome.
+- **[node-docs](https://github.com/node-ide/node-docs)** repository hosts the full user and developer documentation. Pull requests for guides, tutorials, and troubleshooting are always welcome.
 - **[node-extensions](https://github.com/node-ide/node-extensions)** repository hosts a curated list of extensions tested and optimized for mobile interfaces, alongside tools to help extension authors adapt their work for small screens.
-- **[node-design](https://github.com/node-ide/node-design)** repository hosts UI/UX proposals, design mockups, and the research behind our mobile-first interaction patterns. This is where we discuss major new interface features before they are built.
