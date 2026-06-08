@@ -1,13 +1,13 @@
-# Node (pronounced /noʊd/)
+# Aegis (pronounced /ˈiːdʒɪs/)
 
-**Node** is a fast, lightweight, extensible code editor for mobile and desktop, built on the solid foundations of Visual Studio Code. 
+**Aegis** is a free, open source Minecraft Anti-Cheat, that provides what the paid options can't, it combines Hypixel WatchDog level prediction, with a sleek nice user interface inspired off Vulcan, and will always be open source, no matetr what.
 
-It is designed to provide a familiar, powerful development experience that travels with you. Node brings the core editing engine, extension ecosystem, and keyboard-centric workflows you expect to your phone and tablet, while also serving as a clean, telemetry-free alternative on the desktop. Node is built by merging the best of VSCode’s modern interface with VSCodium’s commitment to open, unencumbered software.
+**Aegis** doesn't hide behind a pay wall or obfuscation. Every single line of code is visible and able to be seen by cheat developers. Simple philosophy: If your Anti-Cheat depends on the cheater being not able to read your code. It sucks
 
-Node is used by developers who need a serious editing environment on mobile devices, and by those who prefer a fully open-source desktop IDE without the default telemetry and branding of upstream distributions. We created Node to prove that mobile coding can be first-class, not an afterthought, and to foster a community around a truly open, cross-platform editor.
+**Aegis** is built and developed off the assumptions that the cheat developers can read every line for maximum detections. We created Aegis to prove that free software can work just as good or even better than paid alternatives
 
-Our main `node-ide` repository hosts the source code for the editor, the scripts to build for Android, iOS, and desktop, and the issue tracker for bug reports and feature requests. It is updated with each upstream release and welcomes community contributions.
+Our main `Aegis` repository hosts the full source code, the issue tracker for bug reports and bypass disclosures, and the release pipeline for pre-built jars. It is updated weekly and welcomes community contributions.
+
 
 We also maintain other repositories that are key to the project:
-- **[node-docs](https://github.com/node-ide/node-docs)** repository hosts the full user and developer documentation. Pull requests for guides, tutorials, and troubleshooting are always welcome.
-- **[node-extensions](https://github.com/node-ide/node-extensions)** repository hosts a curated list of extensions tested and optimized for mobile interfaces, alongside tools to help extension authors adapt their work for small screens.
+- **[aegis-docs](https://github.com/aegisac/aegis-docs)** repository hosts the full user and developer documentation. Pull requests for guides, tutorials, and troubleshooting are always welcome.
